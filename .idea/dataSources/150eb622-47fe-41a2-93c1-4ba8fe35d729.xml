@@ -99,7 +99,7 @@
     </schema>
     <schema id="32" parent="1" name="BOS">
       <ObjectId>63</ObjectId>
-      <IntrospectionTimestamp>2018-03-30.18:58:40</IntrospectionTimestamp>
+      <IntrospectionTimestamp>2018-04-01.20:06:44</IntrospectionTimestamp>
       <Visible>1</Visible>
     </schema>
     <sequence id="33" parent="2" name="HIBERNATE_SEQUENCE">
