@@ -19,6 +19,7 @@
           <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.0.3" />
           <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.1" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.6" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-all:1.2.2" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-guice:1.2.2" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.2" />
@@ -150,7 +151,6 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.7" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.12.4.RELEASE" />
-          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" />
         </element>
       </element>
       <element id="directory" name="META-INF">
